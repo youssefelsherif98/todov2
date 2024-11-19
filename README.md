@@ -7,7 +7,7 @@ I want to have a size limit on text area
   Use max width and height
 
 User story:
-I want my lines in the textarea to be numbered
-  add list into text area, probably using DOM manipulation?
-I want to style my todolist
-  Style todolist div, text area, and button
+style needs
+follow figma design
+
+get buttons working
